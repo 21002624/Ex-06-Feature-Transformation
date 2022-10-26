@@ -25,8 +25,8 @@ Print the transformed features
 ## PROGRAM:
 
 ```
-# NAME: sarveshkaran v.k
-# REG NO: 212221230089
+# NAME: Akash.A
+# REG NO: 212221040010
 
 import numpy as np
 import pandas as pd
